@@ -1,6 +1,5 @@
 packages:
   - name: curl
-  - name: docker-compose
   - name: git
   - name: git-lfs
   - name: jq
@@ -12,7 +11,13 @@ packages:
   - name: tig
   - name: peco
   - name: ghq
+  - name: gh
   - name: go
   - name: gitmoji
   - name: bat
   - name: stern
+  - name: goenv
+  - name: golangci-lint
+  - name: graphviz
+  - name: grpcurl
+  - name: kube-ps1
