@@ -1,0 +1,15 @@
+packages:
+  - name: google-chrome
+  - name: visual-studio-code
+  - name: unity-hub
+  - name: phpstorm
+  - name: rider
+  - name: iterm2
+  - name: slack
+  - name: advancedrestclient
+  - name: skitch
+  - name: dbeaver-community
+  - name: google-cloud-sdk
+  - name: alfred
+  - name: google-japanese-ime
+  - name: docker

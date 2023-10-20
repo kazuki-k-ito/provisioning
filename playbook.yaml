@@ -1,0 +1,21 @@
+---
+- hosts: localhost
+  connection: local
+  gather_facts: false
+  become: false
+  roles:
+    - role: homebrew
+      tags:
+        - homebrew
+    - role: homebrew_cask
+      tags:
+        - homebrew_cask
+    - role: mas
+      tags:
+        - mas
+    - role: dotfiles
+      tags:
+        - dotfiles
+    - role: zinit
+      tags:
+        - zinit
