@@ -1,5 +1,4 @@
 packages:
-  - name: google-chrome
   - name: visual-studio-code
   - name: unity-hub
   - name: phpstorm
@@ -13,3 +12,4 @@ packages:
   - name: alfred
   - name: google-japanese-ime
   - name: docker
+  - name: font-fira-code-nerd-font

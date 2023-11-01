@@ -3,3 +3,4 @@ taps:
   - homebrew/core
   - argoproj/tap
   - derailed/k9s
+  - homebrew/cask-fonts

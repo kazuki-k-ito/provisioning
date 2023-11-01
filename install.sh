@@ -18,7 +18,7 @@ chsh -s /usr/local/bin/zsh
 brew install git
 
 ## clone this repository
-git clone https://extra-ghe.dev.gree-dev.net/kazuki-k-ito/provisioning.git
+git clone https://github.com/kazuki-k-ito/provisioning.git
 
 ## run ansible
 cd provisioning

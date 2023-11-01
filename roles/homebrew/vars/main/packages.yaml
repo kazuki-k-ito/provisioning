@@ -21,3 +21,4 @@ packages:
   - name: graphviz
   - name: grpcurl
   - name: kube-ps1
+  - name: font-plemol-jp
